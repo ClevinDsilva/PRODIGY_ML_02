@@ -1,6 +1,6 @@
 # PRODIGY_ML_02
 
-#Customer Segmentation using K-Means Clustering
+## Customer Segmentation using K-Means Clustering
 
 This project is part of my **Machine Learning Internship** at **Prodigy InfoTech**.
 
